@@ -7,11 +7,11 @@
 		<link rel="stylesheet" href="resources/css/Main.css"/>
 	</head>
 	<body>
-		<jsp:include page="./Sub_Head.jsp"/>
-		<jsp:include page="./Sub_Foot.jsp"/>
-		
+	<jsp:include page="./Sub_Head.jsp"/>
+	<jsp:include page="./Sub_Foot.jsp"/>
+	<jsp:include page="./Sub_Bar.jsp"/>
 		<p>main</p>
-	
+		
 	</body>
 </html>
 

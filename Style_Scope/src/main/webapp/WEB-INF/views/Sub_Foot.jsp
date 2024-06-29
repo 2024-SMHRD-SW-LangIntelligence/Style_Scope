@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="resources/css/Sub_Foot.css"/>
-<title>Sub_head</title>
+<title>Sub_foot</title>
 </head>
 
 	<div class="foot">

@@ -1,0 +1,15 @@
+div.sub_bar {
+	width: 360px;
+	height: 100%;
+	position: fixed;
+	z-index: 2;
+	top: 0px;
+	right: -300px;
+	background-color: #c0c0c0;
+	
+	transition: 0.4s;
+}
+
+div.sub_bar:hover {
+	right: 0px;
+}
