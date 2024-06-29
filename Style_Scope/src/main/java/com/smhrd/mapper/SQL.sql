@@ -9,5 +9,5 @@ SELECT table_name
 FROM information_schema.tables
 WHERE table_schema = 'com';
 
--- Style_scope db를 만들수 없으니 같이 사용 [테이블명 : SS_???]
+-- Style_scope db를 만들수 없으니 같이 사용 
 
