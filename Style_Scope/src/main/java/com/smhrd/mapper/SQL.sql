@@ -1,7 +1,7 @@
 -- 전체 DB를 보는 쿼리문(mysql)
 SHOW DATABASES;
 
--- db 생성(mysql)[현재 com계정은 권한이 없음]
+-- db 생성(mysql)[현재 com계정은 권한이 없음(실행안됨)]
 CREATE DATABASE style_scope;
 
 -- 테이블 전체를 보는 쿼리문
